@@ -1,14 +1,15 @@
 # Real Time Bus Tracking
-In this exercise, we using Google Maps to show the location of a bus based on the data from MBTA and displaying it as an icon on the map, with a color code to show direction.
+In this exercise, we are using MapBox to show the location of a bus based on the data from MBTA and displaying it as an icon on the map, with a color code to show direction.
 
 
 ## How to Run
-Clone the repository
-Open index.html in your browser
+1. Clone the repository
+2. Open index.html in your browser
 
 
 ## Roadmap
-Fix Google Maps API issue
+* Change icon based on direction
+* Click on icon to display popup with bus details
 
 
 ## License
